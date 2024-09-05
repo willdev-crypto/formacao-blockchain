@@ -1,2 +1,2 @@
-# formacao-blockchain-dio
-Repositório contendo os desafios de projeto da formação
+# Formacao-Blockchain-Dio
+Repositório contendo os desafios de projeto da formação.
